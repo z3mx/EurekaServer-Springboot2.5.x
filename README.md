@@ -3,7 +3,7 @@
 This Eureka works with Springboot 2.5.2 and spring cloud 2020.0.3
 ----------------------------------------
 
-> I hope with this project yoyu will able to rise your own eureka server
+> I hope with this project your will able to rise your own eureka server
 
 > #### What is Required!
 >
